@@ -1,11 +1,20 @@
 # Livre-jeu - L'Odyssée de l'enseignement
 
-Adaptation web interactive de **L'Odyssée de l'enseignement**, une ressource pédagogique autour du concept de livre-jeu
+Adaptation web interactive de **L'Odyssée de l'enseignement**, une ressource pédagogique autour du concept de livre-jeu.
+
+Le projet est une webapp statique : aucun serveur local, backend ou étape de build n'est nécessaire. Ouvrir directement
+`index.html` ou `game.html` dans un navigateur suffit.
 
 Le site propose deux entrées complémentaires :
 
 - `index.html` : présentation pédagogique, repères théoriques et kit de conception
 - `game.html` : expérience de lecture interactive du livre-jeu
+
+Les ressources téléchargeables complètes sont embarquées dans `docs/` :
+
+- `docs/odyssee-enseignement.epub`
+- `docs/odyssee-enseignement.pages`
+- `docs/odyssee-enseignement.pdf`
 
 ## Objectif
 
