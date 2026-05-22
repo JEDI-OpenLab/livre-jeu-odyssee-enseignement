@@ -6,15 +6,20 @@ window.gameData = {
       "number": 1,
       "title": "Objectifs pédagogiques",
       "paragraphs": [
-        "Ce kit pédagogique est conçu pour servir d'activité introductrice, sous la forme d'un icebreaker ludique, visant à familiariser les participant·e·s aux mécaniques ou principes d'une histoire dont vous êtes le héros. L'odyssée de l'enseignement propose une immersion dans les mécaniques fondamentales de la pédagogie inhérentes au livre-jeu.",
-        "À l'issue de l'activité, vous serez capable de découvrir et d'analyser les mécaniques ludiques propres aux Livres Dont Vous Êtes le Héros et de comprendre leur application dans le domaine de l'enseignement.",
-        "Vous serez également capable d'identifier comment ces mécaniques favorisent l'individualisation du parcours d'apprentissage, encouragent les boucles de pratique-feedback-remédiation, stimulent l'apprentissage par la découverte et l'essai-erreur, soutiennent le développement de l'autonomie et facilitent la coopération entre apprenants.",
-        "Enfin, cette odyssée doit vous aider à reconnaître et à évaluer les potentialités ainsi que les limites inhérentes à l'utilisation d'un jeu sérieux sous forme de livre-jeu dans un contexte pédagogique."
+        "Ce kit pédagogique est conçu pour servir d'activité introductrice (icebreaker ludique), visant à familiariser les participant·e·s aux mécaniques ou principes d'une histoire dont vous êtes le héros (HDVELH). L'odyssée de l'enseignement propose une immersion dans les mécaniques fondamentales de la pédagogie inhérentes au livre-jeu. Pour plus de détails sur la conception et utilisation du kit, rendez-vous au chapitre Notes - Kit pédagogique.",
+        "À l'issue de l'activité, vous serez capable :",
+        "❖ de découvrir et d'analyser les mécaniques ludiques propres aux Livres Dont Vous Êtes le Héros (LDVELH) et de comprendre leur application dans le domaine de l’enseignement.",
+        "❖ D’identifier comment ces mécaniques favorisent l'individualisation du parcours d'apprentissage, encouragent les boucles de pratique-feedback-remédiation, stimulent l'apprentissage par la découverte et l'essai/erreur, soutiennent le développement de l'autonomie et facilitent la coopération entre apprenants.",
+        "❖ De reconnaître et d'évaluer les potentialités ainsi que les limites inhérentes à l'utilisation d'un jeu sérieux sous forme de livre-jeu dans un contexte pédagogique, permettant une réflexion critique sur l'intégration de tels outils dans vos stratégies d'enseignement."
       ],
       "choices": [
         {
           "label": "Lire l’avertissement avant d’entrer dans le livre",
           "target": "chapter-2"
+        },
+        {
+          "label": "Consulter les notes - kit pédagogique",
+          "target": "chapter-26"
         }
       ]
     },
@@ -24,8 +29,7 @@ window.gameData = {
       "title": "Attention !",
       "paragraphs": [
         "Chère lectrice, cher lecteur,",
-        "Ce livre te propose de devenir le héros ou l’héroïne imaginaire d'aventures pédagogiques extraordinaires. Grâce à des pouvoirs surnaturels, tu traverseras des épreuves extrêmement périlleuses.",
-        "Nous te rappelons que tu ne dois en aucun cas tenter de reproduire dans la vie réelle les situations décrites dans ce livre car tu pourrais mettre tes enseignements gravement en danger…"
+        "Ce livre te propose de devenir le héros ou l’héroïne imaginaire d'aventures pédagogiques extraordinaires. Grâce à des pouvoirs surnaturels, tu traverseras des épreuves extrêmement périlleuses. Nous te rappelons que tu ne dois en aucun cas tenter de reproduire dans la vie réelle les situations décrites dans ce livre car tu pourrais mettre tes enseignements gravement en danger…"
       ],
       "choices": [
         {
@@ -42,7 +46,7 @@ window.gameData = {
         "Plonge au cœur d'une aventure où le savoir est la clé et l'enseignement, un monde à explorer. L'odyssée de l’enseignement n'est pas simplement un livre ; c'est un voyage dans lequel toi, lectrice ou lecteur, devient acteur ou actrice de ton propre parcours d'apprentissage. Dans cette quête unique, le trésor est constitué d’artefacts pédagogiques à découvrir.",
         "À chaque tournant de page, tu seras confronté à des choix qui sculpteront ton voyage, te menant à travers des forêts d'incertitudes, des labyrinthes de questions, et des montagnes de défis. Plus qu'une simple exploration, cette odyssée est une invitation à réfléchir, à questionner et à grandir.",
         "Aucune créature maléfique ne se dressera en ton chemin, mais les obstacles que tu rencontreras sont tout aussi redoutables, car ils prennent racine dans les défis pédagogiques réels.",
-        "Tu n’es pas seul dans cette aventure. La Vigie et l'Architecte seront à tes côtés. La Vigie, avec sa vision globale, t'offrira des indices précieux pour renforcer ton parcours. L'Architecte, quant à lui, te lancera des défis stimulants.",
+        "Tu n’es pas seul dans cette aventure. la Vigie et l'Architecte seront à tes côtés. la Vigie, avec sa vision globale, t'offrira des indices précieux pour renforcer ton parcours. l'Architecte, quant à lui, te lancera des défis stimulants.",
         "L’odyssée de l’enseignement est à la fois un roman captivant, où chaque décision façonne l'histoire, et une exploration ludique des fondements de l'éducation. Cette aventure te tiendra en haleine, t'invitant à devenir non seulement le héros ou l’héroïne de l'histoire, mais aussi un créateur ou une créatrice.",
         "Alors, es-tu prêt·e à tourner la page et à commencer cette extraordinaire aventure pédagogique ?"
       ],
@@ -59,10 +63,12 @@ window.gameData = {
       "title": "Les gardiens de l’odyssée",
       "paragraphs": [
         "Deux figures emblématiques t’accompagnent à travers ton voyage d'exploration et de découverte pédagogique : la Vigie et l'Architecte. Chacun joue un rôle crucial pour t’éclairer sur les chemins de la connaissance et de l'innovation en éducation.",
-        "La Vigie, la guide clairvoyante, scrute l'horizon de l'apprentissage pour anticiper les défis et les opportunités qui se présentent. En tant qu’observateur averti, ce personnage apporte un éclairage sur les nuances subtiles de la pédagogie, t’aidant à naviguer à travers les complexités de l’apprentissage.",
-        "Son rôle dans l'odyssée est de fournir des feedbacks constructifs qui t’encouragent à explorer au-delà des conceptions préconçues.",
-        "L'Architecte, le constructeur, incarne le défi à concevoir des environnements d'apprentissage engageants et significatifs. Ce personnage t’aide à construire des fondations solides pour tes pratiques éducatives, en s'appuyant sur les principes de coopération, d'autonomie et d'engagement actif.",
-        "Son rôle dans l'odyssée est de poser des questions provocatrices et de lancer des défis pour stimuler la réflexion critique et la découverte."
+        "La Vigie : la guide clairvoyante",
+        "La Vigie, avec sa vision pénétrante, scrute l'horizon de l'apprentissage pour anticiper les défis et les opportunités qui se présentent. En tant qu’observateur averti, ce personnage apporte un éclairage sur les nuances subtiles de la pédagogie, t’aidant à naviguer à travers les complexités de l’apprentissage.",
+        "Rôle dans l'odyssée : fournir des feedbacks constructifs qui t’encouragent à explorer au-delà des conceptions préconçues.",
+        "L'Architecte : Le constructeur",
+        "L'Architecte incarne le défi à concevoir des environnements d'apprentissage engageants et significatifs. Ce personnage t’aide à construire des fondations solides pour tes pratiques éducatives, en s'appuyant sur les principes de coopération, d'autonomie et d'engagement actif.",
+        "Rôle dans l'odyssée : poser des questions provocatrices et lancer des défis pour stimuler la réflexion critique et la découverte."
       ],
       "choices": [
         {
@@ -81,8 +87,8 @@ window.gameData = {
         "Tu frissonnes à l'idée de ce qui t'attend, mais la voix continue, imperturbable. « Ces épreuves te confronteront aux défis les plus profonds de l'enseignement et de l'apprentissage. Tu auras à faire des choix, à explorer de nouvelles méthodologies, et à redécouvrir l'essence de ta vocation. »",
         "Puis, vient le choix crucial. « Avant de commencer, tu dois décider : vas-tu affronter ces épreuves seul, en te reposant sur ta propre sagesse et expérience ? Ou bien, choisirais-tu de travailler en équipe, tirant parti de la diversité des perspectives et de la force de la collaboration ? »",
         "Le silence retombe dans la salle, lourd de possibilité et d'attente.",
-        "Si tu choisis de travailler seul, convaincu que ton indépendance est ta plus grande force, rendez-vous après au chapitre seul face à l’infini de la connaissance .",
-        "Si tu décides de travailler en équipe, croyant en la puissance de la collaboration et de l'échange, rendez-vous après au chapitre coopération ."
+        "Si tu choisis de travailler seul, convaincu que ton indépendance est ta plus grande force, rendez-vous après au chapitre seul face à l’infini de la connaissance.",
+        "Si tu décides de travailler en équipe, croyant en la puissance de la collaboration et de l'échange, rendez-vous après au chapitre coopération."
       ],
       "choices": [
         {
@@ -104,7 +110,7 @@ window.gameData = {
         "« En acceptant de créer, tu embrasses le plus noble des défis : celui d'inspirer les autres à travers tes mots, à explorer les limites de leur imagination, et à découvrir la puissance de leurs choix » te confie l'Architecte avec un sourire encourageant.",
         "La Vigie ajoute, sa voix pleine d'espérance : « Chaque histoire que tu tisses est une porte vers de nouveaux mondes pour tes apprenants, une invitation à devenir les héros de leurs propres aventures. Tu as en toi le pouvoir de transformer la manière dont ils voient le monde et se voient eux-mêmes. »",
         "Ton aventure, riche des enseignements tirés des défis passés et des choix effectués, prend maintenant une nouvelle dimension. Ensemble, avec la Vigie et l'Architecte à tes côtés, tu es prêt à forger des expériences qui vont au-delà du simple récit. Tu t’apprêtes à créer des ponts entre les mondes, à éclairer les esprits et à éveiller les cœurs.",
-        "Ton voyage continue, avec la promesse d'inspirer, d'éduquer, et de guider à travers l'art unique des Histoires Dont Vous Êtes le Héros. Rendez-vous après au chapitre ta quête est terminée ."
+        "Ton voyage continue, avec la promesse d'inspirer, d'éduquer, et de guider à travers l'art unique des Histoires Dont Vous Êtes le Héros. Rendez-vous après au chapitre ta quête est terminée."
       ],
       "choices": [
         {
@@ -119,8 +125,8 @@ window.gameData = {
       "title": "Chapitre Développement des personnages",
       "paragraphs": [
         "Dans une HDVELH, le développement profond des personnages peut être limité par la structure même de l'histoire. Les différents chemins peuvent ne pas permettre d'explorer complètement les personnages secondaires ou leurs motivations, réduisant potentiellement la richesse narrative et l'immersion du lecteur dans l'univers de l’histoire.",
-        "Pour parcourir les autres limites, rendez-vous après au chapitre des limites du système .",
-        "Pour concrétiser ton voyage créatif et donner forme à ton récit, rendez-vous après au chapitre en route pour l’aventure ."
+        "Pour parcourir les autres limites, rendez-vous après au chapitre des limites du système.",
+        "Pour concrétiser ton voyage créatif et donner forme à ton récit, rendez-vous après au chapitre en route pour l’aventure."
       ],
       "choices": [
         {
@@ -139,13 +145,13 @@ window.gameData = {
       "title": "Chapitre De l’écho de la vigie",
       "paragraphs": [
         "Face à l’adversité, tu te trouves à un carrefour d'incertitudes et de questions sans réponse. Les défis se dressent devant toi comme des géants, obscurs et intimidants. C'est dans ces moments de doute que tu lèves les yeux vers le ciel, cherchant une lueur d'espoir, un guide pour t’éclairer. Et c'est là que tu te souviens de la Vigie, cette présence bienveillante qui a promis d'être ton fanal dans la tempête. Tu fais appel à la bonté de la Vigie :",
-        "ÔVigie, dans les cieux, gardienne sage, Des connaissances, tu es le plus doux visage. Âmes égarées te cherchent dans la nuit, En quête d'une aide, d'un guide, d'un appui.",
+        "Ô Vigie, dans les cieux, gardienne sage, Des connaissances, tu es le plus doux visage. Âmes égarées te cherchent dans la nuit, En quête d'une aide, d'un guide, d'un appui.",
         "Ton aide nous invoquons, dans l'ombre dense, Pour éclairer notre chemin, ô donne-nous chance. Que tes lumières nous guident, nous éclairent, A travers ces épreuves, que nos cœurs espèrent.",
         "Que ta sagesse nous porte, nous élève, Et que, grâce à toi, le bon chemin s'achève. Ô Vigie, à toi nos voix s'élèvent, s'entremêlent, Pour trouver dans ta lumière, la voie qui nous appelle.",
         "Peu après, une douce lumière émane de nulle part, et la voix de la Vigie te parvient, rassurante et sage. « Je suis ici, prête à illuminer ton chemin. Quelles sont les questions qui pèsent sur ton cœur ? »",
         "Interroge la Vigie, et écoute-là.",
         "Fort de ses conseils prodigués, ton cœur se sent désormais plus léger, ta vision plus claire. Les mots de sagesse résonnent en toi, illuminant ton esprit comme des phares dans la nuit de tes incertitudes.",
-        "Pour poursuivre ton aventure, fort des éclaircissements reçus, rendez-vous après au chapitre du pont des décisions ."
+        "Pour poursuivre ton aventure, fort des éclaircissements reçus, rendez-vous après au chapitre du pont des décisions."
       ],
       "choices": [
         {
@@ -159,10 +165,10 @@ window.gameData = {
       "number": 9,
       "title": "Chapitre l'Architecte s’incline",
       "paragraphs": [
-        "L 'Architecte écoute attentivement ton explication des différences entre le socio-constructivisme et le behaviorisme. Impressionné, il acquiesce et dit : « Bravo ! Ta compréhension des fondements de l'apprentissage est admirable. En effet, Le socio-constructivisme repose sur l'idée que la connaissance est construite à travers les interactions sociales et le contexte culturel, tandis que le behaviorisme se concentre sur l'apprentissage en tant que réponse à des stimuli extérieurs, souvent par le renforcement. »",
+        "L'Architecte écoute attentivement ton explication des différences entre le socio-constructivisme et le behaviorisme. Impressionné, il acquiesce et dit : « Bravo ! Ta compréhension des fondements de l'apprentissage est admirable. En effet, Le socio-constructivisme repose sur l'idée que la connaissance est construite à travers les interactions sociales et le contexte culturel, tandis que le behaviorisme se concentre sur l'apprentissage en tant que réponse à des stimuli extérieurs, souvent par le renforcement. »",
         "L’Architecte marque une pause et dit :",
         "« Laisse-moi te révéler un secret. La véritable sagesse réside non seulement dans la connaissance mais aussi dans le partage de cette connaissance. Je t’invite donc à rejoindre une équipe. Ensemble, vous explorerez la fin de cette aventure. Votre mission sera d'apporter votre expertise pour enrichir la réflexion collective. »",
-        "Pour continuer, rendez-vous au chapitre coopération ."
+        "Pour continuer, rendez-vous au chapitre coopération."
       ],
       "choices": [
         {
@@ -177,8 +183,8 @@ window.gameData = {
       "title": "Chapitre Complexité des embranchements",
       "paragraphs": [
         "La gestion des embranchements peut devenir très complexe à mesure que l'histoire se développe. Assurer la cohérence de chaque chemin tout en offrant des choix significatifs et des conséquences réalistes est un défi. Les lecteurs pourraient se sentir perdus ou submergés si les embranchements sont trop denses ou si les liens entre les choix et leurs résultats ne sont pas clairs.",
-        "Pour parcourir les autres limites, rendez-vous après au chapitre des limites du système .",
-        "Pour concrétiser ton voyage créatif et donner forme à ton récit, rendez-vous après au chapitre en route pour l’aventure ."
+        "Pour parcourir les autres limites, rendez-vous après au chapitre des limites du système.",
+        "Pour concrétiser ton voyage créatif et donner forme à ton récit, rendez-vous après au chapitre en route pour l’aventure."
       ],
       "choices": [
         {
@@ -200,8 +206,8 @@ window.gameData = {
         "Dans un tourbillon de lumière, la Vigie et l'Architecte apparaissent à tes côtés, mais transformés. Leur essence, autrefois mystérieuse et énigmatique, est maintenant claire et lumineuse. « Nous sommes les ingénieurs pédagogiques de ce monde d'aventure et de découverte. Notre mission est de t’accompagner dans la conception de tes propres récits d'apprentissage, en utilisant les principes rencontrés tout au long de ton voyage. »",
         "L'Architecte, avec sa voix calme et posée, t’adresse ces mots : « Peut-être hésites-tu parce que tu perçois intuitivement les limites et les défis inhérents à la création d'une telle histoire. C'est une marque de sagesse que de reconnaître ses barrières avant de s'engager dans un projet ambitieux. »",
         "La Vigie, dont les yeux scintillent d'une curiosité bienveillante, ajoute : « Et si nous explorions ensemble ces limites ? Comprendre les défis est le premier pas vers l'innovation. Nous pourrions transformer ces contraintes en opportunités, et peut-être, trouveras-tu l'inspiration pour créer une histoire qui transcende ces barrières. »",
-        "Revigoré, tu fais un pas en avant pour explorer ces limites, rendez-vous après au chapitre des limites du système .",
-        "Galvanisé par la présence des ingénieurs, tu entames ta nouvelle aventure en tant que créateur, rendez-vous après au chapitre de l'inspiration à la création ."
+        "Revigoré, tu fais un pas en avant pour explorer ces limites, rendez-vous après au chapitre des limites du système.",
+        "Galvanisé par la présence des ingénieurs, tu entames ta nouvelle aventure en tant que créateur, rendez-vous après au chapitre de l'inspiration à la création."
       ],
       "choices": [
         {
@@ -220,8 +226,8 @@ window.gameData = {
       "title": "Chapitre Réutilisabilité et découvrabilité",
       "paragraphs": [
         "Une limite inhérente aux HDVELH est la question de la réutilisabilité : une fois que tous les chemins ont été explorés, l'intérêt du lecteur à revisiter l'histoire peut diminuer. De plus, s'assurer que les lecteurs découvrent tous les contenus significatifs sans se sentir obligés de suivre des chemins qu'ils n'ont pas choisis peut être complexe.",
-        "Pour parcourir les autres limites, rendez-vous après au chapitre des limites du système .",
-        "Pour concrétiser ton voyage créatif et donner forme à ton récit, rendez-vous après au chapitre en route pour l’aventure ."
+        "Pour parcourir les autres limites, rendez-vous après au chapitre des limites du système.",
+        "Pour concrétiser ton voyage créatif et donner forme à ton récit, rendez-vous après au chapitre en route pour l’aventure."
       ],
       "choices": [
         {
@@ -244,7 +250,7 @@ window.gameData = {
         "L'apprentissage est une série de tentatives, où chaque échec est une leçon précieuse. Tu découvres que la clé réside dans la capacité à essayer, échouer, puis réessayer avec une nouvelle compréhension. Ce cycle d'essais et d'erreurs n'est pas un signe de faiblesse, mais un moteur de croissance et d'adaptation, te poussant à affiner tes stratégies et à persévérer face aux défis.",
         "Après avoir exploré ce sentier enrichissant, tu te retrouves à nouveau face au Pont des Décisions. Cette fois, la brume qui l'entourait auparavant commence à se dissiper, signe que ta croissance personnelle a influencé le monde autour de toi.",
         "Devant toi, le Pont des Décisions se dresse maintenant clair et invitant, baigné dans la lumière d'un soleil qui perce enfin les nuages. La voie à traverser semble moins intimidante, presque comme si elle t’accueillait. Tu réalises que les épreuves sur le sentier n'étaient pas juste des obstacles, mais des enseignements essentiels pour te préparer à ce moment.",
-        "La pédagogie par essai/erreur n’a plus de secret pour toi. Rendez-vous après au chapitre des fresques heuristiques ."
+        "La pédagogie par essai/erreur n’a plus de secret pour toi. Rendez-vous après au chapitre des fresques heuristiques."
       ],
       "choices": [
         {
@@ -259,8 +265,8 @@ window.gameData = {
       "title": "Chapitre Profondeur de l’engagement",
       "paragraphs": [
         "Bien que l'engagement du lecteur soit au cœur des HDVELH, trouver le juste équilibre entre la liberté de choix et une narration captivante peut être difficile. Si les choix proposés ne semblent pas influencer de manière significative le déroulement de l'histoire, les lecteurs peuvent se sentir détachés ou que leurs décisions manquent d'impact.",
-        "Pour parcourir les autres limites, rendez-vous après au chapitre des limites du système .",
-        "Pour concrétiser ton voyage créatif et donner forme à ton récit, rendez-vous après au chapitre en route pour l’aventure ."
+        "Pour parcourir les autres limites, rendez-vous après au chapitre des limites du système.",
+        "Pour concrétiser ton voyage créatif et donner forme à ton récit, rendez-vous après au chapitre en route pour l’aventure."
       ],
       "choices": [
         {
@@ -280,8 +286,8 @@ window.gameData = {
       "paragraphs": [
         "Après avoir traversé le Pont des Décisions, tu arrives dans une salle vaste et lumineuse, aux murs ornés de fresques représentant de nombreuses histoires entrelacées. Au centre, se trouve une grande table sur laquelle repose une carte heuristique ouverte gigantesque, ses pages blanches vibrant d'un potentiel créatif inexploré. C'est ici que tu fais face à la dernière péripétie de ton aventure : la création de ta propre Histoire Dont Vous Êtes le Héros (HDVELH).",
         "Une voix résonne dans la salle, expliquant que le véritable défi est maintenant devant toi : concevoir et écrire ta propre aventure, en utilisant tout ce que tu as découvert. Pour réussir, il te faut comprendre non seulement les principes narratifs, mais aussi la structure complexe qui sous-tend une HDVELH. Les embranchements, les choix qui mènent à des conséquences diverses, et la manière dont les différentes parties de l'histoire s'entremêlent nécessitent une planification minutieuse.",
-        "Armé de confiance et prêt à te lancer dans cette nouvelle aventure de création, rendez-vous après au chapitre démêler les fils de l’apprentissage .",
-        "Tu doutes être prêt pour cette aventure de création, rendez-vous après au chapitre unis dans l’exploration ."
+        "Armé de confiance et prêt à te lancer dans cette nouvelle aventure de création, rendez-vous après au chapitre démêler les fils de l’apprentissage.",
+        "Tu doutes être prêt pour cette aventure de création, rendez-vous après au chapitre unis dans l’exploration."
       ],
       "choices": [
         {
@@ -307,8 +313,8 @@ window.gameData = {
         "❖ Renforcer la confiance et la solidarité entre les individus et les groupes.",
         "Tu te retrouves projeté dans une salle de classe virtuelle où des avatars d'élèves attendent avec impatience le début de leur cours. Ces avatars incarnent une diversité de besoins et d'intérêts, reflétant le large éventail des profils d'apprenants que tu pourrais rencontrer en tant qu’enseignant.",
         "Alors que tu t'apprêtes à démarrer le cours, une notification surgit soudainement sur l'écran interactif à l'avant de la classe : « Avant de commencer, face à cette diversité de profils d’apprenants, peux-tu expliquer ce qui distingue la personnalisation de l'individualisation des apprentissages ? Comprendre cette distinction est crucial pour enseigner efficacement dans cette classe virtuelle. »",
-        "Si tu sais distinguer la personnalisation de l’individualisation. Rendez-vous après au chapitre du pont des décisions .",
-        "Si tu n’es pas certain, tu peux solliciter la Vigie pour des éclaircissements. Rendez-vous après au chapitre de l’écho de la Vigie ."
+        "Si tu sais distinguer la personnalisation de l’individualisation. Rendez-vous après au chapitre du pont des décisions.",
+        "Si tu n’es pas certain, tu peux solliciter la Vigie pour des éclaircissements. Rendez-vous après au chapitre de l’écho de la Vigie."
       ],
       "choices": [
         {
@@ -329,7 +335,7 @@ window.gameData = {
         "Après avoir écouté votre réponse, l'Architecte t’offre un sourire encourageant et dit : « Ne t’inquiète pas, la quête du savoir est un voyage que nous faisons tous. La première étape vers la sagesse est de reconnaître ce que l'on ne sait pas. Le socio-constructivisme repose sur l'idée que la connaissance est construite à travers les interactions sociales et le contexte culturel, tandis que le behaviorisme se concentre sur l'apprentissage en tant que réponse à des stimuli extérieurs, souvent par le renforcement. »",
         "L’Architecte marque une pause et dit :",
         "« Laisse-moi te révéler un secret. La véritable sagesse réside non seulement dans la connaissance mais aussi dans le partage de cette connaissance. Je t’invite donc à rejoindre une équipe. Ensemble, vous explorerez la fin de cette aventure. Votre mission sera d'apporter votre expertise pour enrichir la réflexion collective. »",
-        "Pour continuer, rendez-vous au chapitre coopération ."
+        "Pour continuer, rendez-vous au chapitre coopération."
       ],
       "choices": [
         {
@@ -348,7 +354,7 @@ window.gameData = {
         "L'Architecte, toujours pragmatique, ajoute : « Chaque histoire a ses contraintes, qu'elles soient narratives, structurelles ou créatives. En identifiant et en comprenant ces contraintes, tu pourras les transformer en opportunités pour innover et captiver tes futurs lecteurs. »",
         "Motivé par leurs paroles, tu fermes les yeux un instant, laissant ton esprit parcourir à nouveau les chemins de l'aventure que tu viens de terminer. Tu penses aux moments où tu aurais aimé avoir plus de choix, aux fins qui auraient pu être différentes, et aux personnages dont les histoires n'ont pas été explorées pleinement.",
         "Toutefois, tu te sens prêts à te lancer dans l’écriture sans parcourir les limites, tu les découvriras par toi-même. Rendez-vous après au chapitre en route pour l’aventure !",
-        "ÔVigie ! Ô Architecte, éclairez-moi de vos lumières ! Rendez-vous après au chapitre des limites du système ."
+        "Ô Vigie ! Ô Architecte, éclairez-moi de vos lumières ! Rendez-vous après au chapitre des limites du système."
       ],
       "choices": [
         {
@@ -369,8 +375,8 @@ window.gameData = {
         "Tu sais que d’une part la personnalisation est axée sur l'individu, cherchant à adapter l'enseignement et l'apprentissage aux spécificités de chaque apprenant, et que d’autre part l'individualisation se concentre sur la création de parcours d'apprentissage adaptés à des groupes d'élèves partageant des caractéristiques communes.",
         "Après avoir traversé la Vallée des Ombres, un chemin sinueux bordé de mystères et d'énigmes, tu arrives devant le Pont des Décisions. Ce pont ancien et majestueux, construit de pierres séculaires et de bois robuste, semble être le seul moyen de traverser le gouffre qui te sépare de la prochaine étape de votre quête. Devant toi, une brume épaisse et impénétrable enveloppe le pont, rendant impossible de voir ce qui se trouve de l'autre côté. Le silence est seulement interrompu par le murmure du vent qui semble porter des voix, t’invitant à franchir le pont.",
         "Face à cette inconnue, une décision s'impose :",
-        "Tu braves l'inconnu et traverses le pont, rendez-vous après au chapitre des fresques heuristiques .",
-        "Tu cherches une voie plus sûre ? Rendez-vous après chapitre du sentier de la prudence ."
+        "Tu braves l'inconnu et traverses le pont, rendez-vous après au chapitre des fresques heuristiques.",
+        "Tu cherches une voie plus sûre ? Rendez-vous après chapitre du sentier de la prudence."
       ],
       "choices": [
         {
@@ -389,8 +395,8 @@ window.gameData = {
       "title": "Chapitre Équilibre entre liberté et direction",
       "paragraphs": [
         "Trouver l'équilibre entre offrir la liberté au lecteur et maintenir une direction narrative claire est essentiel. Une trop grande liberté peut rendre l'histoire disjointe, tandis qu'une direction trop rigide peut limiter l'expérience de choix du lecteur.",
-        "Pour parcourir les autres limites, rendez-vous après au chapitre des limites du système .",
-        "Pour concrétiser ton voyage créatif et donner forme à ton récit, rendez-vous après au chapitre en route pour l’aventure ."
+        "Pour parcourir les autres limites, rendez-vous après au chapitre des limites du système.",
+        "Pour concrétiser ton voyage créatif et donner forme à ton récit, rendez-vous après au chapitre en route pour l’aventure."
       ],
       "choices": [
         {
@@ -410,13 +416,13 @@ window.gameData = {
       "paragraphs": [
         "Alors que tu te tiens devant la grande table, la carte heuristique déployée devant toi, tu prends un moment pour réfléchir. Autour de toi, la salle lumineuse semble attendre en silence que tu plonges dans la conception de ton récit. Mais avant de tracer le moindre chemin sur le papier, une prise de conscience s'impose : créer une Histoire Dont Vous Êtes Le Héros est un défi parsemé d'obstacles. Les limites de cette entreprise créative sont nombreuses et variées, chacune représentant un aspect spécifique du dédale narratif que tu es sur le point de tisser.",
         "Tu te retournes et tu as accès à un ordinateur listant chacune de ses limites. Elles sont accessibles dans des fichiers différents :",
-        "❖ Rendez-vous après au chapitre complexité des embranchements .",
-        "❖ Rendez-vous après au chapitre profondeur de l’engagement .",
-        "❖ Rendez-vous après au chapitre développement des personnages .",
-        "❖ Rendez-vous après au chapitre réutilisabilité et découvrabilité .",
-        "❖ Rendez-vous après au chapitre équilibre entre liberté et direction .",
+        "❖ Rendez-vous après au chapitre complexité des embranchements.",
+        "❖ Rendez-vous après au chapitre profondeur de l’engagement.",
+        "❖ Rendez-vous après au chapitre développement des personnages.",
+        "❖ Rendez-vous après au chapitre réutilisabilité et découvrabilité.",
+        "❖ Rendez-vous après au chapitre équilibre entre liberté et direction.",
         "Ton aventure, bien loin de s'achever, commence seulement. Chaque limite explorée ouvre la porte à des possibilités infinies. Armé de ces connaissances, tu es prêt à insuffler vie à ta propre HDVELH. Il est temps de tourner la page et d'embrasser pleinement le rôle de créateur.",
-        "Pour concrétiser ton voyage créatif et donner forme à ton récit, rendez-vous après au chapitre en route pour l’aventure ."
+        "Pour concrétiser ton voyage créatif et donner forme à ton récit, rendez-vous après au chapitre en route pour l’aventure."
       ],
       "choices": [
         {
@@ -452,7 +458,7 @@ window.gameData = {
       "paragraphs": [
         "Ton voyage prend une nouvelle tournure, celle d'un médiateur de savoirs, d'un sculpteur d'esprits curieux. Aux côtés de la Vigie et de l'Architecte, désormais tes alliés dans l'art de l'enseignement, tu embrasses ton rôle de créateur. La page blanche devant toi n'est plus un gouffre intimidant, mais un espace de liberté où tes idées prennent vie, tissant des récits qui éduquent, inspirent et transforment.",
         "Ton histoire ne se termine jamais vraiment. Elle se réinvente, s'adapte et grandit avec chaque lecteur qui en traverse les pages. Tu es devenu un phare dans le monde de l'éducation, illuminant le chemin pour ceux qui cherchent à apprendre, à comprendre, et à devenir plus que ce qu'ils étaient hier. Voilà l'essence véritable de ton aventure, une saga qui continue de s'écrire bien au-delà des derniers mots.",
-        "Rendez-vous après au chapitre ta quête est terminée ."
+        "Rendez-vous après au chapitre ta quête est terminée."
       ],
       "choices": [
         {
@@ -469,8 +475,8 @@ window.gameData = {
         "Dans le monde de demain, être autonome dans son apprentissage signifie être capable de s'orienter dans un océan d'informations, de distinguer les théories, d'extraire les connaissances pertinentes, et de les appliquer de manière créative à des problèmes nouveaux. C'est une compétence essentielle pour s'adapter rapidement aux changements et pour innover. L'autonomie te permet de construire ton propre chemin d'apprentissage, de collaborer efficacement avec d'autres, et de relever avec confiance les défis que tu rencontreras.",
         "Tu te trouves dans une bibliothèque virtuelle aux dimensions infinies, remplie de livres qui flottent et s'organisent à ton approche. Chaque livre représente une connaissance, une compétence ou une aventure à découvrir.",
         "L'Architecte apparaît devant toi dans un tourbillon de pages. Avec un sourire énigmatique, il te lance : « Tu penses vraiment pouvoir affronter seul cette aventure ? C'est me sous-estimer. Je te défie de me donner la différence entre deux théories de l'apprentissage : le socio-constructivisme et le behaviorisme. Si tu y parviens, je reconnaîtrais ta victoire. Dans le cas contraire… hahaha ! » Sa voix s'élève en un rire écho, teinté d'une malice qui résonne à travers les étagères infinies.",
-        "Ce défi est trop grand pour moi, je m’incline, et sollicite l’aide de mes collègues enseignants. Rendez-vous après au chapitre l’Architecte clément .",
-        "Ce défi est ridicule, bien sûr que je connais la différence entre ces deux théories ! Rendez-vous après au chapitre l’Architecte s’incline ."
+        "Ce défi est trop grand pour moi, je m’incline, et sollicite l’aide de mes collègues enseignants. Rendez-vous après au chapitre l’Architecte clément.",
+        "Ce défi est ridicule, bien sûr que je connais la différence entre ces deux théories ! Rendez-vous après au chapitre l’Architecte s’incline."
       ],
       "choices": [
         {
@@ -492,7 +498,61 @@ window.gameData = {
         "Au cours de cette odyssée, tu as été tour à tour explorateur, apprenant, et désormais, tu te tiens en tant que créateur, un enseignant armé de savoirs et d'expériences uniques. La Vigie et l'Architecte, tes compagnons de route transformés en guides pédagogiques, ont éclairé ton chemin, révélant la profondeur et la richesse de l'enseignement à travers le prisme de l'aventure.",
         "La dernière page de ce livre se tourne, mais l'histoire que vous allez créer ensemble, avec tes futurs lecteurs et apprenants, ne fait que commencer. Alors, prends ta plume, ouvre un nouveau livre, et écris le prochain chapitre d'une aventure éducative sans précédent. Ta quête continue, enrichie de chaque expérience, prête à illuminer le monde de l'éducation avec l'art unique des Histoires Dont Vous Êtes le Héros."
       ],
-      "choices": []
+      "choices": [
+        {
+          "label": "Lire l’à propos de l’auteur",
+          "target": "chapter-25"
+        }
+      ]
+    },
+    {
+      "id": "chapter-25",
+      "number": 25,
+      "title": "À propos de l’auteur",
+      "paragraphs": [
+        "John Johnson, René Duvalier de son faux nom, faussement né en 1902 en Normandie, n’a pas marqué le XXe siècle en inventant le livre-jeu de science-fiction avec sa collections de Défis pédagogiques en 1935. Fusionnant sa passion pour l’éducation et la littérature, il a créé des univers où chaque lectrice et lecteur devenaient le héros ou l’héroïne de leurs propres aventures pédagogiques. Ses œuvres, comme « L’odyssée de l’enseignement » et « L’université universelle », ont exploré la liberté, l’inclusion et l’individualisation, n’influençant pas profondément la littérature interactive. Duvalier s'est éteint en 1982, laissant derrière lui un héritage délébile dans l'imaginaire collectif et la science-fiction éducative."
+      ],
+      "choices": [
+        {
+          "label": "Consulter les notes du kit pédagogique",
+          "target": "chapter-26"
+        }
+      ]
+    },
+    {
+      "id": "chapter-26",
+      "number": 26,
+      "title": "Notes - Kit pédagogique",
+      "paragraphs": [
+        "Mode d’emploi",
+        "Ce kit pédagogique est conçu pour servir d'activité introductrice, visant à familiariser les participants avec des concepts théoriques essentiels et des mécanismes ludiques. À travers l'exploration d'une histoire dont vous êtes le héros, L'odyssée de l'enseignement offre une immersion dans les principes fondamentaux de la pédagogie, en mettant l'accent sur l'importance de l'individualisation, de la coopération, de l'autonomie, ainsi que sur la dynamique entre personnalisation et standardisation de l’apprentissage.",
+        "Principe LDVELH pédagogique : Découverte à travers L'odyssée de l'enseignement",
+        "Individualisation du parcours : Chaque choix effectué par les participants modifie le déroulement de l'histoire, illustrant comment adapter l'enseignement aux besoins uniques de chaque apprenant. Les différents scénarios soulignent l'importance de personnaliser l'apprentissage.",
+        "Boucles de pratique-feedback-remédiation : Après chaque décision importante, le livre offre immédiatement des conséquences et un feedback intégré, avec des options pour revenir en arrière si le chemin choisi ne mène pas aux résultats pédagogiques escomptés. Cela illustre le cycle d'apprentissage où la pratique, l'évaluation, et la correction des erreurs sont essentielles.",
+        "Apprentissage par la découverte : Les participants sont placés devant des défis ou des énigmes qu'ils doivent résoudre en utilisant leurs connaissances préalables et en découvrant de nouvelles stratégies pédagogiques au fur et à mesure. Cette méthode souligne l'importance de l'exploration active dans l'apprentissage.",
+        "Autonomie : Bien que les décisions soient prises en groupe, chaque choix reflète une démarche autonome, montrant comment encourager les apprenants à prendre en main leur processus d'apprentissage et à être responsables de leurs décisions éducatives.",
+        "Coopération : Les décisions collectives nécessaires pour avancer dans l'histoire mettent en avant le rôle de la coopération dans l'apprentissage, montrant comment le travail d'équipe peut enrichir l'expérience éducative et conduire à des résultats d'apprentissage plus complets.",
+        "Lecture à haute voix :",
+        "Le kit est structuré pour qu'un lecteur ou une lectrice parmi les participants prenne en charge la narration de l'aventure. Cette personne fera la lecture à haute voix des différents segments de l'histoire, plongeant ainsi l'ensemble des participants dans l'univers de L'odyssée de l'enseignement. Les collègues participants sont encouragés à écouter attentivement et à participer activement en contribuant aux décisions qui orienteront le cours de l’histoire.",
+        "Rôles des ingénieurs pédagogiques :",
+        "Deux ingénieurs pédagogiques joueront un rôle clé dans l'animation de cette expérience. Ils incarneront les personnages de l'Architecte et la Vigie, deux guides essentiels dans le périple des participants. Pour cela, il est impératif que ces animateurs aient une connaissance approfondie du contenu du kit pédagogique. Leur mission sera d'intervenir à des moments clés pour lire des passages spécifiques, fournir des feedbacks, poser des questions stimulantes, et orienter les discussions. Leur intervention vise à enrichir l'expérience d'apprentissage en offrant des perspectives complémentaires et en guidant les participants à travers les concepts abordés.",
+        "Consignes pour les ingénieurs pédagogiques",
+        "❖ Préparation : Assurez-vous de bien comprendre l'ensemble du contenu du kit, ainsi que le déroulé de l'histoire et les principaux points de discussion. Familiarisez-vous avec les rôles de l'Architecte et la Vigie pour pouvoir intervenir de manière fluide et pertinente.",
+        "❖ Interaction : Soyez prêts à guider les participants non seulement à travers l'histoire, mais aussi dans la réflexion sur les mécanismes pédagogiques en jeu. Votre rôle est de faciliter la découverte et la compréhension des concepts clés, en encourageant l'interaction et la discussion au sein du groupe.",
+        "❖ Flexibilité : Adaptez vos interventions en fonction des réactions et des besoins des participants. Le but est de créer une expérience d'apprentissage dynamique et réactive qui encourage l'exploration et l'engagement de tous.",
+        "Attention",
+        "Ce livre que vous tenez entre vos mains est un élément d'un kit pédagogique conçu spécialement pour introduire et animer votre session de formation de manière ludique et immersive. Utilisé comme un icebreaker en début de séance, il a pour objectif de plonger les participant·e·s dans une expérience collective engageante, tout en mettant en lumière les principes fondamentaux de l'enseignement et de l’apprentissage.",
+        "Il convient de souligner que la conception de ce livre ne vise pas la perfection. Par choix délibéré, nous avons intégré certaines imperfections pour stimuler l'analyse critique et révéler les intrications, mécaniques et contraintes propres à l'immersion narrative dans un cadre éducatif. Ces « imperfections par design » invitent à une discussion collective, enrichissant la compréhension des enjeux et principes pédagogiques explorés. Parmi ces choix intentionnels figurent : une profondeur variable des différentes branches, qui peut contraindre le lecteur à revenir sur ses pas ; un équilibre parfois précaire entre l'engagement narratif, les objectifs ludiques et les visées pédagogiques ; l'absence stratégique d'un chapitre explicatif sur les principes d'un LDVELH directement dans le récit (le fameux chapitre perdu) ; une dégamification trop accentuée qui aurait pu être enrichie par l'intégration d'évaluations formatives (pour remplacer les dés) ou encore l'usage de la feuille d'aventure comme outil diagnostique ; et enfin, le constat que le parcours le plus direct à travers l'histoire révèle moins d'éléments pédagogiques qu'espéré. Ces choix sont autant d'invitations à débattre sur la manière dont les principes du LDVELH peuvent être judicieusement adaptés et intégrés dans des stratégies d'enseignement innovantes.",
+        "Cette démarche et ce design s'inscrivent dans le cadre du socio-constructivisme, une théorie de l'apprentissage qui souligne l'importance des interactions sociales et de la construction collective du savoir. Selon cette approche, l'apprentissage est optimisé lorsque les apprenant·e·s sont activement engagé·e·s dans un processus de création de connaissances, en collaborant et en échangeant avec leurs pairs. Le livre sert donc de catalyseur pour des discussions enrichissantes, où chaque participant·e apporte sa perspective unique, contribuant à la construction collective d'une compréhension partagée.",
+        "En outre, cette activité relève de la pédagogie expérientielle, qui met l'accent sur l'apprentissage par l'expérience. En vivant directement une histoire dont vous êtes le héros, les participant·e·s expérimentent de première main les défis et décisions que l'immersion narrative peut présenter dans un cadre éducatif. Cette expérience directe, suivie d'une réflexion de groupe, permet de tirer des leçons précieuses et d'appliquer ces connaissances à leurs propres pratiques pédagogiques.",
+        "Ce livre est plus qu'un simple outil d'animation : c'est une invitation à explorer, à questionner et à construire ensemble les fondements d'une pédagogie innovante. À travers cette expérience initiale et la discussion qui en découle, nous espérons stimuler votre curiosité pédagogique et enrichir votre arsenal d’enseignant·e avec de nouvelles perspectives et stratégies."
+      ],
+      "choices": [
+        {
+          "label": "chapitre perdu",
+          "target": "chapter-27"
+        }
+      ]
     },
     {
       "id": "chapter-27",
@@ -512,7 +572,161 @@ window.gameData = {
         "Votre aventure n'a pas une, mais plusieurs conclusions possibles. Certaines sont joyeuses, d'autres tragiques, et quelques-unes restent ambiguës. Votre parcours à travers le livre détermine non seulement votre sort, mais aussi celui du monde que vous avez juré de protéger ou de conquérir. La relecture du livre vous offre la chance d'explorer les chemins non pris, de découvrir tous les secrets et toutes les fins.",
         "Alors que vous tournez la dernière page, la réalisation vous frappe: dans un livre dont vous êtes le héros, chaque lecture est une aventure nouvelle. La magie du choix et du hasard vous invite à rouvrir le livre, à choisir différemment, à vivre une nouvelle histoire. L'aventure vous attend à chaque page, chaque choix est le vôtre."
       ],
-      "choices": []
+      "choices": [
+        {
+          "label": "Afficher le sommaire",
+          "target": "chapter-28"
+        }
+      ]
+    },
+    {
+      "id": "chapter-28",
+      "number": 28,
+      "title": "Sommaire",
+      "paragraphs": [
+        "Objectifs pédagogiques",
+        "Attention !",
+        "Un livre différent",
+        "Les gardiens de l’odyssée",
+        "Chapitre Télétransportation",
+        "Chapitre En route pour l’aventure !",
+        "Chapitre Développement des personnages",
+        "Chapitre De l’écho de la vigie",
+        "Chapitre l'Architecte s’incline",
+        "Chapitre Complexité des embranchements",
+        "Chapitre Unis dans l’exploration",
+        "Chapitre Réutilisabilité et découvrabilité",
+        "Chapitre Du sentier de la prudence",
+        "Chapitre Profondeur de l’engagement",
+        "Chapitre Des fresques heuristiques",
+        "Chapitre Coopération",
+        "Chapitre L'Architecte clément",
+        "Chapitre Démêler les fils de l’apprentissage",
+        "Chapitre Du pont des décisions",
+        "Chapitre Équilibre entre liberté et direction",
+        "Chapitre Des limites du système",
+        "Chapitre De l’inspiration à la création",
+        "Chapitre Seul face à l’infini de la connaissance",
+        "Chapitre Ta quête est terminée",
+        "À propos de l’auteur",
+        "Notes - Kit pédagogique",
+        "Chapitre perdu",
+        "Sommaire"
+      ],
+      "choices": [
+        {
+          "label": "Objectifs pédagogiques",
+          "target": "chapter-1"
+        },
+        {
+          "label": "Attention !",
+          "target": "chapter-2"
+        },
+        {
+          "label": "Un livre différent",
+          "target": "chapter-3"
+        },
+        {
+          "label": "Les gardiens de l’odyssée",
+          "target": "chapter-4"
+        },
+        {
+          "label": "Chapitre Télétransportation",
+          "target": "chapter-5"
+        },
+        {
+          "label": "Chapitre En route pour l’aventure !",
+          "target": "chapter-6"
+        },
+        {
+          "label": "Chapitre Développement des personnages",
+          "target": "chapter-7"
+        },
+        {
+          "label": "Chapitre De l’écho de la vigie",
+          "target": "chapter-8"
+        },
+        {
+          "label": "Chapitre l'Architecte s’incline",
+          "target": "chapter-9"
+        },
+        {
+          "label": "Chapitre Complexité des embranchements",
+          "target": "chapter-10"
+        },
+        {
+          "label": "Chapitre Unis dans l’exploration",
+          "target": "chapter-11"
+        },
+        {
+          "label": "Chapitre Réutilisabilité et découvrabilité",
+          "target": "chapter-12"
+        },
+        {
+          "label": "Chapitre Du sentier de la prudence",
+          "target": "chapter-13"
+        },
+        {
+          "label": "Chapitre Profondeur de l’engagement",
+          "target": "chapter-14"
+        },
+        {
+          "label": "Chapitre Des fresques heuristiques",
+          "target": "chapter-15"
+        },
+        {
+          "label": "Chapitre Coopération",
+          "target": "chapter-16"
+        },
+        {
+          "label": "Chapitre L'Architecte clément",
+          "target": "chapter-17"
+        },
+        {
+          "label": "Chapitre Démêler les fils de l’apprentissage",
+          "target": "chapter-18"
+        },
+        {
+          "label": "Chapitre Du pont des décisions",
+          "target": "chapter-19"
+        },
+        {
+          "label": "Chapitre Équilibre entre liberté et direction",
+          "target": "chapter-20"
+        },
+        {
+          "label": "Chapitre Des limites du système",
+          "target": "chapter-21"
+        },
+        {
+          "label": "Chapitre De l’inspiration à la création",
+          "target": "chapter-22"
+        },
+        {
+          "label": "Chapitre Seul face à l’infini de la connaissance",
+          "target": "chapter-23"
+        },
+        {
+          "label": "Chapitre Ta quête est terminée",
+          "target": "chapter-24"
+        },
+        {
+          "label": "À propos de l’auteur",
+          "target": "chapter-25"
+        },
+        {
+          "label": "Notes - Kit pédagogique",
+          "target": "chapter-26"
+        },
+        {
+          "label": "Chapitre perdu",
+          "target": "chapter-27"
+        },
+        {
+          "label": "Sommaire",
+          "target": "chapter-28"
+        }
+      ]
     }
   ]
 };

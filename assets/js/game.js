@@ -1,179 +1,191 @@
 const storyArtworks = {
   "chapter-1": [
     {
-      src: "assets/media/chapters/chapter-1-1.jpg",
+      src: "assets/media/chapters-web/chapter-1-1.jpg",
       alt: "Illustration du chapitre Objectifs pédagogiques"
     }
   ],
   "chapter-2": [
     {
-      src: "assets/media/chapters/chapter-2-1.png",
+      src: "assets/media/chapters-web/chapter-2-1.png",
       alt: "Illustration du chapitre Attention !"
     }
   ],
   "chapter-3": [
     {
-      src: "assets/media/chapters/chapter-3-1.jpg",
+      src: "assets/media/chapters-web/chapter-3-1.jpg",
       alt: "Illustration du chapitre Un livre différent"
     }
   ],
   "chapter-4": [
     {
-      src: "assets/media/chapters/chapter-4-1.jpg",
+      src: "assets/media/chapters-web/chapter-4-1.jpg",
       alt: "La Vigie, la guide clairvoyante",
       caption: "La Vigie, la guide clairvoyante"
     },
     {
-      src: "assets/media/chapters/chapter-4-2.jpg",
+      src: "assets/media/chapters-web/chapter-4-2.jpg",
       alt: "L'Architecte, le constructeur",
       caption: "L'Architecte, le constructeur"
     }
   ],
   "chapter-5": [
     {
-      src: "assets/media/chapters/chapter-5-1.png",
+      src: "assets/media/chapters-web/chapter-5-1.png",
       alt: "Illustration du chapitre Télétransportation"
     }
   ],
   "chapter-6": [
     {
-      src: "assets/media/chapters/chapter-6-1.jpg",
+      src: "assets/media/chapters-web/chapter-6-1.jpg",
       alt: "Illustration du chapitre En route pour l’aventure !"
     }
   ],
   "chapter-7": [
     {
-      src: "assets/media/chapters/chapter-7-1.jpg",
+      src: "assets/media/chapters-web/chapter-7-1.jpg",
       alt: "Illustration du chapitre Développement des personnages"
     }
   ],
   "chapter-8": [
     {
-      src: "assets/media/chapters/chapter-8-1.jpg",
+      src: "assets/media/chapters-web/chapter-8-1.jpg",
       alt: "Illustration du chapitre De l’écho de la vigie"
     }
   ],
   "chapter-9": [
     {
-      src: "assets/media/chapters/chapter-9-1.jpg",
+      src: "assets/media/chapters-web/chapter-9-1.jpg",
       alt: "Illustration du chapitre L'Architecte s’incline"
     }
   ],
   "chapter-10": [
     {
-      src: "assets/media/chapters/chapter-10-1.jpg",
+      src: "assets/media/chapters-web/chapter-10-1.jpg",
       alt: "Illustration du chapitre Complexité des embranchements"
     }
   ],
   "chapter-11": [
     {
-      src: "assets/media/chapters/chapter-11-1.jpg",
+      src: "assets/media/chapters-web/chapter-11-1.jpg",
       alt: "Illustration du chapitre Unis dans l’exploration"
     }
   ],
   "chapter-12": [
     {
-      src: "assets/media/chapters/chapter-12-1.jpg",
+      src: "assets/media/chapters-web/chapter-12-1.jpg",
       alt: "Illustration du chapitre Réutilisabilité et découvrabilité"
     }
   ],
   "chapter-13": [
     {
-      src: "assets/media/chapters/chapter-13-1.jpg",
+      src: "assets/media/chapters-web/chapter-13-1.jpg",
       alt: "Le premier passage par le sentier de la prudence",
       caption: "Le sentier de la prudence"
     },
     {
-      src: "assets/media/chapters/chapter-13-2.jpg",
+      src: "assets/media/chapters-web/chapter-13-2.jpg",
       alt: "Le retour lumineux vers le pont des décisions",
       caption: "Le retour vers le pont"
     }
   ],
   "chapter-14": [
     {
-      src: "assets/media/chapters/chapter-14-1.jpg",
+      src: "assets/media/chapters-web/chapter-14-1.jpg",
       alt: "Illustration du chapitre Profondeur de l’engagement"
     }
   ],
   "chapter-15": [
     {
-      src: "assets/media/chapters/chapter-15-1.jpg",
+      src: "assets/media/chapters-web/chapter-15-1.jpg",
       alt: "Illustration du chapitre Des fresques heuristiques"
     }
   ],
   "chapter-16": [
     {
-      src: "assets/media/chapters/chapter-16-1.jpg",
+      src: "assets/media/chapters-web/chapter-16-1.jpg",
       alt: "Illustration du chapitre Coopération"
     }
   ],
   "chapter-17": [
     {
-      src: "assets/media/chapters/chapter-17-1.jpg",
+      src: "assets/media/chapters-web/chapter-17-1.jpg",
       alt: "Illustration du chapitre L'Architecte clément"
     }
   ],
   "chapter-18": [
     {
-      src: "assets/media/chapters/chapter-18-1.jpg",
+      src: "assets/media/chapters-web/chapter-18-1.jpg",
       alt: "Illustration du chapitre Démêler les fils de l’apprentissage"
     }
   ],
   "chapter-19": [
     {
-      src: "assets/media/chapters/chapter-19-1.jpg",
+      src: "assets/media/chapters-web/chapter-19-1.jpg",
       alt: "Illustration du chapitre Du pont des décisions"
     }
   ],
   "chapter-20": [
     {
-      src: "assets/media/chapters/chapter-20-1.jpg",
+      src: "assets/media/chapters-web/chapter-20-1.jpg",
       alt: "Illustration du chapitre Équilibre entre liberté et direction"
     }
   ],
   "chapter-21": [
     {
-      src: "assets/media/chapters/chapter-21-1.jpg",
+      src: "assets/media/chapters-web/chapter-21-1.jpg",
       alt: "Illustration du chapitre Des limites du système"
     }
   ],
   "chapter-22": [
     {
-      src: "assets/media/chapters/chapter-22-1.jpg",
+      src: "assets/media/chapters-web/chapter-22-1.jpg",
       alt: "Illustration du chapitre De l’inspiration à la création"
     }
   ],
   "chapter-23": [
     {
-      src: "assets/media/chapters/chapter-23-1.jpg",
+      src: "assets/media/chapters-web/chapter-23-1.jpg",
       alt: "Illustration du chapitre Seul face à l’infini de la connaissance"
     }
   ],
   "chapter-24": [
     {
-      src: "assets/media/chapters/chapter-24-1.jpg",
+      src: "assets/media/chapters-web/chapter-24-1.jpg",
       alt: "Illustration du chapitre Ta quête est terminée"
+    }
+  ],
+  "chapter-25": [
+    {
+      src: "assets/media/auteur.webp",
+      alt: "Portrait de John Johnson"
+    }
+  ],
+  "chapter-26": [
+    {
+      src: "assets/media/kit-pedagogique-web.jpg",
+      alt: "Illustration du kit pédagogique"
     }
   ],
   "chapter-27": [
     {
-      src: "assets/media/chapters/chapter-27-1.jpg",
+      src: "assets/media/chapters-web/chapter-27-1.jpg",
       alt: "Première illustration du chapitre perdu",
       caption: "L'appel du livre"
     },
     {
-      src: "assets/media/chapters/chapter-27-2.jpg",
+      src: "assets/media/chapters-web/chapter-27-2.jpg",
       alt: "Seconde illustration du chapitre perdu",
       caption: "Les codes du genre"
     }
+  ],
+  "chapter-28": [
+    {
+      src: "assets/media/odyssee-map.jpg",
+      alt: "Carte heuristique de l'odyssée de l'enseignement"
+    }
   ]
 };
-
-Object.values(storyArtworks).forEach((artworks) => {
-  artworks.forEach((artwork) => {
-    artwork.src = artwork.src.replace("assets/media/chapters/", "assets/media/chapters-web/");
-  });
-});
 
 const storyThemes = {
   "chapter-1": "Comprendre la promesse pédagogique du livre",
@@ -200,7 +212,10 @@ const storyThemes = {
   "chapter-22": "Transformer l'inspiration en création",
   "chapter-23": "Faire face seul au savoir",
   "chapter-24": "Clore la quête et relancer le geste d'écriture",
-  "chapter-27": "Explorer les codes cachés du genre"
+  "chapter-25": "Découvrir la fiction d'auteur qui entoure le livre",
+  "chapter-26": "Lire les notes de conception et d'animation",
+  "chapter-27": "Explorer les codes cachés du genre",
+  "chapter-28": "Retrouver l'ensemble des chapitres"
 };
 
 const storyTags = {
@@ -228,7 +243,10 @@ const storyTags = {
   "chapter-22": ["inspiration", "design", "projection"],
   "chapter-23": ["autonomie", "défi", "bibliothèque"],
   "chapter-24": ["conclusion", "transfert", "projection"],
-  "chapter-27": ["codes du genre", "chapitre perdu", "rejouabilité"]
+  "chapter-25": ["auteur", "paratexte", "fiction éditoriale"],
+  "chapter-26": ["kit pédagogique", "animation", "notes"],
+  "chapter-27": ["codes du genre", "chapitre perdu", "rejouabilité"],
+  "chapter-28": ["sommaire", "navigation", "chapitres"]
 };
 
 const artifactCatalog = {
@@ -305,7 +323,7 @@ const artifactUnlocks = {
 const chapterMap = new Map(window.gameData.chapters.map((chapter) => [chapter.id, chapter]));
 const allChapters = window.gameData.chapters;
 const storageKey = "odysse-web-game-state";
-const storageVersion = "intro-sequence-v1";
+const storageVersion = "epub-sync-v1";
 const introChapterIds = ["chapter-1", "chapter-2", "chapter-3", "chapter-4"];
 const interfaceVersion = window.odysseeWebVersion || new Date().toISOString().slice(0, 10);
 
@@ -619,18 +637,12 @@ function renderChoices(chapter) {
   }
 
   if (!chapter.choices.length) {
-    const bonusButton =
-      chapter.id === "chapter-24"
-        ? `<button type="button" class="btn btn-outline-shell story-choice" data-target="chapter-27" data-label="Explorer le chapitre perdu">Explorer le chapitre perdu</button>`
-        : "";
-
     elements.choices.innerHTML = `
       <div class="surface-card">
         <div class="card-body">
           <p class="card-kicker">Étape accomplie</p>
           <h4 class="mini-title mb-3">Cette scène clôt provisoirement la route.</h4>
           <div class="d-grid gap-2">
-            ${bonusButton}
             <button type="button" class="btn btn-accent story-choice" data-action="restart">Recommencer depuis le début</button>
           </div>
         </div>
