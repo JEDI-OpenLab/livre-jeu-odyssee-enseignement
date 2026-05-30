@@ -32,9 +32,12 @@ Les références, titres et oeuvres qui ne relèvent pas de cette production res
 
 ## Licence
 
-Les contenus originaux du projet sont diffusés sous licence **Creative Commons Attribution - ShareAlike 4.0 International (CC BY-SA 4.0)**.
+Ressource éducative libre (REL) au sens de la Recommandation UNESCO de 2019. Sauf mention contraire, les contenus
+originaux du projet sont diffusés sous licence **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+Les contenus tiers conservent leurs droits et licences propres.
 
 Voir le fichier [LICENSE.md](LICENSE.md).
+Voir aussi le [site principal de JEDI-OpenLab](https://jedi-openlab.github.io/jedi-openlab/) pour plus d'informations.
 
 ## Auteur
 
